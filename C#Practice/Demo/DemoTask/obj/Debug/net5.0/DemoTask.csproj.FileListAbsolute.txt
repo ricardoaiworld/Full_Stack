@@ -1,0 +1,15 @@
+/Users/ricardo/Projects/Demo/DemoTask/bin/Debug/net5.0/DemoTask.deps.json
+/Users/ricardo/Projects/Demo/DemoTask/bin/Debug/net5.0/DemoTask.runtimeconfig.json
+/Users/ricardo/Projects/Demo/DemoTask/bin/Debug/net5.0/DemoTask.runtimeconfig.dev.json
+/Users/ricardo/Projects/Demo/DemoTask/bin/Debug/net5.0/DemoTask.dll
+/Users/ricardo/Projects/Demo/DemoTask/bin/Debug/net5.0/ref/DemoTask.dll
+/Users/ricardo/Projects/Demo/DemoTask/bin/Debug/net5.0/DemoTask.pdb
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.csprojAssemblyReference.cache
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.AssemblyInfo.cs
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.dll
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/ref/DemoTask.dll
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.pdb
+/Users/ricardo/Projects/Demo/DemoTask/obj/Debug/net5.0/DemoTask.genruntimeconfig.cache
