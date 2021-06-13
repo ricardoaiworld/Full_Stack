@@ -1,0 +1,15 @@
+/Users/ricardo/Projects/Lab3/Exercise3/bin/Debug/net5.0/Exercise3.deps.json
+/Users/ricardo/Projects/Lab3/Exercise3/bin/Debug/net5.0/Exercise3.runtimeconfig.json
+/Users/ricardo/Projects/Lab3/Exercise3/bin/Debug/net5.0/Exercise3.runtimeconfig.dev.json
+/Users/ricardo/Projects/Lab3/Exercise3/bin/Debug/net5.0/Exercise3.dll
+/Users/ricardo/Projects/Lab3/Exercise3/bin/Debug/net5.0/ref/Exercise3.dll
+/Users/ricardo/Projects/Lab3/Exercise3/bin/Debug/net5.0/Exercise3.pdb
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.csprojAssemblyReference.cache
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.AssemblyInfo.cs
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.dll
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/ref/Exercise3.dll
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.pdb
+/Users/ricardo/Projects/Lab3/Exercise3/obj/Debug/net5.0/Exercise3.genruntimeconfig.cache
