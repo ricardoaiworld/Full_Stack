@@ -1,0 +1,15 @@
+/Users/ricardo/Projects/Lab5/Exercise7/bin/Debug/net5.0/Exercise7.deps.json
+/Users/ricardo/Projects/Lab5/Exercise7/bin/Debug/net5.0/Exercise7.runtimeconfig.json
+/Users/ricardo/Projects/Lab5/Exercise7/bin/Debug/net5.0/Exercise7.runtimeconfig.dev.json
+/Users/ricardo/Projects/Lab5/Exercise7/bin/Debug/net5.0/Exercise7.dll
+/Users/ricardo/Projects/Lab5/Exercise7/bin/Debug/net5.0/ref/Exercise7.dll
+/Users/ricardo/Projects/Lab5/Exercise7/bin/Debug/net5.0/Exercise7.pdb
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.csprojAssemblyReference.cache
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.AssemblyInfo.cs
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.dll
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/ref/Exercise7.dll
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.pdb
+/Users/ricardo/Projects/Lab5/Exercise7/obj/Debug/net5.0/Exercise7.genruntimeconfig.cache
