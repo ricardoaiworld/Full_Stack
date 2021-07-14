@@ -38,6 +38,17 @@ namespace Infrastructure.Data
         {
             modelBuilder.Entity<Movie>(ConfigureMovie);
             modelBuilder.Entity<Trailer>(ConfigureTrailer);
+            modelBuilder.Entity<Crew>(ConfigureCrew);
+            modelBuilder.Entity<MovieCrew>(ConfigureMovieCrew);
+            modelBuilder.Entity<MovieGenre>(ConfigureMovieGenre);
+            modelBuilder.Entity<MovieCast>(ConfigureMovieCast);
+            modelBuilder.Entity<Cast>(ConfigureCast);
+            modelBuilder.Entity<Review>(ConfigureReview);
+            modelBuilder.Entity<Favorite>(ConfigureFavorite);
+            modelBuilder.Entity<User>(ConfigureUser);
+            modelBuilder.Entity<Purchase>(ConfigurePurchase);
+            modelBuilder.Entity<UserRole>(ConfigureUserRole);
+            modelBuilder.Entity<Role>(ConfigureRole);
             modelBuilder.Entity<Movie>().HasMany(m => m.Genres).WithMany(g => g.Movies)
                 .UsingEntity<Dictionary<string, object>>("MovieGenre",
                  m => m.HasOne<Genre>().WithMany().HasForeignKey("GenreId"),
@@ -116,7 +127,7 @@ namespace Infrastructure.Data
             builder.HasKey(t => t.Id);
             builder.Property(t => t.Name).HasMaxLength(128);
             builder.Property(t => t.Gender).HasMaxLength(4096);
-            builder.Property(t => t.ThumbUrl).HasMaxLength(4096);
+            builder.Property(t => t.TmdbUrl).HasMaxLength(4096);
             builder.Property(t => t.ProfilePath).HasMaxLength(2084);
         }
         private void ConfigureMovieCast(EntityTypeBuilder<MovieCast> builder)
