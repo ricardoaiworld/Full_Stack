@@ -133,7 +133,10 @@ namespace Infrastructure.Data
         private void ConfigureMovieCast(EntityTypeBuilder<MovieCast> builder)
         {
             builder.ToTable("MovieCast");
-            builder.HasKey(t => t.MovieId);
+            builder.HasKey(mc => new { mc.CastId, mc.MovieId, mc.Character });
+            builder.HasOne(mc => mc.Movie).WithMany(mc => mc.MovieCasts).HasForeignKey(mc => mc.MovieId);
+            builder.HasOne(mc => mc.Cast).WithMany(mc => mc.MovieCasts).HasForeignKey(mc => mc.CastId);
+
             builder.Property(t => t.Character).HasMaxLength(450);
         }
         private void ConfigureMovieGenre(EntityTypeBuilder<MovieGenre> builder)
