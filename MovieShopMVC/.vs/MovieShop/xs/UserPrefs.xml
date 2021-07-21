@@ -1,0 +1,47 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{02DF88C0-AE4B-4E2A-B4C9-5FE60435391D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopAPI/Controllers/MovieController.cs">
+    <Files>
+      <File FileName="MovieShopAPI/Controllers/AccountController.cs" Line="23" Column="19" />
+      <File FileName="MovieShopAPI/Controllers/MovieController.cs" Line="21" Column="1" />
+      <File FileName="ApplicationCore/ServiceInterfaces/IMovieService.cs" Line="22" Column="1" />
+      <File FileName="Infrastructure/Services/MovieService.cs" Line="105" Column="14" />
+      <File FileName="Infrastructure/Repositories/MovieRepository.cs" Line="57" Column="1" />
+      <File FileName="MovieShopAPI/Controllers/UserController.cs" Line="99" Column="14" />
+      <File FileName="Infrastructure/Services/UserService.cs" Line="139" Column="34" />
+      <File FileName="ApplicationCore/RepositoryInterfaces/IMovieRepository.cs" Line="15" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieShop" expanded="True">
+            <Node name="ApplicationCore" expanded="True">
+              <Node name="RepositoryInterfaces" expanded="True" />
+              <Node name="ServiceInterfaces" expanded="True" />
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="MovieShopAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MovieController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="MovieShopMVC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieShopMVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MovieShopAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
