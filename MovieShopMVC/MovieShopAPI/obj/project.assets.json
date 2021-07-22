@@ -8944,11 +8944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ricardo/Downloads/MVCSHOP-main/MovieShopAPI/MovieShopAPI.csproj",
+      "projectUniqueName": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/MovieShopAPI/MovieShopAPI.csproj",
       "projectName": "MovieShopAPI",
-      "projectPath": "/Users/ricardo/Downloads/MVCSHOP-main/MovieShopAPI/MovieShopAPI.csproj",
+      "projectPath": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/MovieShopAPI/MovieShopAPI.csproj",
       "packagesPath": "/Users/ricardo/.nuget/packages/",
-      "outputPath": "/Users/ricardo/Downloads/MVCSHOP-main/MovieShopAPI/obj/",
+      "outputPath": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/MovieShopAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ricardo/.config/NuGet/NuGet.Config"
@@ -8963,11 +8963,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/ApplicationCore.csproj": {
-              "projectPath": "/Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/ApplicationCore.csproj"
+            "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/ApplicationCore.csproj": {
+              "projectPath": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/ApplicationCore.csproj"
             },
-            "/Users/ricardo/Downloads/MVCSHOP-main/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/ricardo/Downloads/MVCSHOP-main/Infrastructure/Infrastructure.csproj"
+            "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/Infrastructure/Infrastructure.csproj"
             }
           }
         }

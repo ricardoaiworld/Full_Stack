@@ -716,11 +716,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/ApplicationCore.csproj",
+      "projectUniqueName": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "/Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/ApplicationCore.csproj",
+      "projectPath": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/ApplicationCore.csproj",
       "packagesPath": "/Users/ricardo/.nuget/packages/",
-      "outputPath": "/Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/obj/",
+      "outputPath": "/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ricardo/.config/NuGet/NuGet.Config"

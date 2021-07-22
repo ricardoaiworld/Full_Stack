@@ -24,3 +24,12 @@
 /Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csproj.CoreCompileInputs.cache
 /Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.dll
 /Users/ricardo/Downloads/MVCSHOP-main/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.deps.json
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.dll
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csprojAssemblyReference.cache
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfo.cs
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.dll
+/Users/ricardo/Documents/GitHub/Full_Stack/MovieShopMVC/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.pdb

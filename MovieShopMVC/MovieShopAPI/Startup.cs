@@ -66,10 +66,14 @@ namespace MovieShopAPI
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MovieShop.API v1"));
-
-
             }
 
+            app.UseCors(builder => {
+                builder.WithOrigins(Configuration.GetValue<string>("movieShopSPAUrl"))
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowCredentials();
+            });
             app.UseHttpsRedirection();
 
             app.UseRouting();
