@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9125hc385oCWMLTXi+qmHMzWIzeo+62ZqlJ7JbfSaHefxFq567kWvrlpPOnnYDCqN8VQoQYHhVECssmP58O0g==",
+  "success": true,
+  "projectFilePath": "/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "/Users/ricardo/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

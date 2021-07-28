@@ -1,0 +1,12 @@
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.deps.json
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.dll
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/bin/Debug/netstandard2.1/Infrastructure.pdb
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/bin/Debug/netstandard2.1/ApplicationCore.dll
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/bin/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.AssemblyInfo.cs
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csproj.CopyComplete
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.dll
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.pdb
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/Infrastructure/obj/Debug/netstandard2.1/Infrastructure.csprojAssemblyReference.cache

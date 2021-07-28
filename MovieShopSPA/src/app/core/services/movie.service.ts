@@ -19,5 +19,11 @@ export class MovieService {
     return this.http.get(`${environment.apiUrl}`+'movies/toprevenue')
     .pipe( map(response => response as MovieCard[]));
   }
+
+  getMovieDetails(id: number) : Observable<Movie[]>{
+    return this.http.get(`${environment.apiUrl}` + 'movies/' + id)
+    .pipe(map(response => response as Movie)));
+
+  }
 }
                        

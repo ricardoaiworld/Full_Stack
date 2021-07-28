@@ -1,0 +1,17 @@
+﻿@model ApplicationCore.Models.InteractionCardResponseModel
+
+<div class="card mb-4 shadow bg-light">
+    <a asp-controller="Interaction" asp-action="InteractionDetails" asp-route-id="@Model.Id">
+        <div>
+            @Model.EmpName
+        </div>
+        <div>
+            @Model.ClientName
+        </div>
+        <div>
+            @Model.IntDate
+        </div>
+     
+    </a>
+</div>
+

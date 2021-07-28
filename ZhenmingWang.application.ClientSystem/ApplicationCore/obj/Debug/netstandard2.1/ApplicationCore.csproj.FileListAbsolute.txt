@@ -1,0 +1,9 @@
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.deps.json
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.dll
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/bin/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfoInputs.cache
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.AssemblyInfo.cs
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.dll
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.pdb
+/Users/ricardo/Projects/ZhenmingWang.application.ClientSystem/ApplicationCore/obj/Debug/netstandard2.1/ApplicationCore.csprojAssemblyReference.cache

@@ -1,0 +1,45 @@
+﻿@model List<ApplicationCore.Models.ClientCardResponseModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="rounded">
+    <div class="container-fluid bg-light">
+        <div>
+            <a href='@Url.Action("NewClient", "Client")'>
+                <input type='button' value='+' />
+            </a>
+            Add Client
+        </div>
+        <div class="row">
+            @if (Model.Count == 0)
+            {
+                <div>
+                    No Client
+
+                </div>
+            }
+            else
+            {
+                @foreach (var client in Model)
+                {
+                    <div class="col-3">
+                        <partial name="_ClientCard" model="client" />
+
+                    </div>
+                }
+            }
+
+        </div>
+
+        <div>
+            <a href='@Url.Action("NewInteraction", "Interaction")'>
+                <input type='button' value='+' />
+            </a>
+            Add Interaction
+        </div>
+    </div>
+</div>
+

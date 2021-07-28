@@ -1,0 +1,8 @@
+﻿@model ApplicationCore.Models.EmployeeCardResponseModel
+
+<div class="card mb-4 shadow bg-light">
+    <a asp-controller="Employee" asp-action="EmployeeDetails" asp-route-id="@Model.Id">
+        @Model.Name
+    </a>
+</div>
+

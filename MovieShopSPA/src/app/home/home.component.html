@@ -1,3 +1,14 @@
-<h2>
-    TOP Revenue Movies
-</h2>
+
+<div class="=rounded">
+    <div class="container-fluid bg-light">
+        <div class="row">
+            <!-- //to send data from parent C to Child C we use @input decorator
+            //to emit data form chld to parent we use @output decorator -->
+            <div class="col-3" *ngFor="let movie of movies"> 
+                <app-movie-card [moviecard]='movie'>
+
+                </app-movie-card>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,70 @@
+﻿@model ApplicationCore.Models.InteractionDetailsModel
+
+<div class="rounded">
+    <div class="container-fluid bg-light">
+        <div class="col-md-4">
+            <form asp-action="UpdateInteraction">
+                <div asp-validation-summary="ModelOnly"></div>
+                <div hidden class="form-group">
+                    <label asp-for="Id">Id</label>
+                    <input asp-for="Id" class="form-control" value="@Model.Id">
+                    <span asp-validation-for="Id" class="text-danger"></span>
+                </div>
+                <div hidden class="form-group">
+                    <label asp-for="ClientId">Client Id</label>
+                    <input asp-for="ClientId" class="form-control" value="@Model.ClientId">
+                    <span asp-validation-for="ClientId" class="text-danger"></span>
+                </div>
+                <div hidden class="form-group">
+                    <label asp-for="EmpId">Email address</label>
+                    <input asp-for="EmpId" class="form-control" value="@Model.EmpId">
+                    <span asp-validation-for="EmpId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ClientName">Client:    </label>
+                    <span>@Model.ClientName</span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="EmpName">Employee:    </label>
+                    <span>@Model.EmpName</span>
+                </div>
+                <div hidden class="form-group">
+                    <label asp-for="ClientName">Client Name</label>
+                    <input asp-for="ClientName" class="form-control" value="@Model.ClientName">
+                    <span asp-validation-for="ClientName" class="text-danger"></span>
+                </div>
+                <div hidden class="form-group">
+                    <label asp-for="EmpName">Employee Name</label>
+                    <input asp-for="EmpName" class="form-control" value="@Model.EmpName">
+                    <span asp-validation-for="EmpName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IntType">Interview Type</label>
+                    <input asp-for="IntType" class="form-control" value="@Model.IntType">
+                    <span asp-validation-for="IntType" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="IntDate">Interview Date</label>
+                    <input asp-for="IntDate" class="form-control" value="@Model.IntDate">
+                    <span asp-validation-for="IntDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Remarks">Remarks</label>
+                    <input asp-for="Remarks" class="form-control" value="@Model.Remarks">
+                    <span asp-validation-for="Remarks" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-primary">Update</button>
+            </form>
+
+            <form asp-action="DeleteInteraction">
+                <div asp-validation-summary="ModelOnly"></div>
+                <div hidden class="form-group">
+                    <label asp-for="Id">Id</label>
+                    <input asp-for="Id" class="form-control" value="@Model.Id">
+                    <span asp-validation-for="Id" class="text-danger"></span>
+                </div>
+                <button type="submit" class="btn btn-danger">Delete</button>
+            </form>
+        </div>
+    </div>
+</div>

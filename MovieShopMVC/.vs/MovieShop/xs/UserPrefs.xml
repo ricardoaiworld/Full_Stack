@@ -1,11 +1,15 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{02DF88C0-AE4B-4E2A-B4C9-5FE60435391D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopAPI/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieShopMVC/Controllers/HomeController.cs">
     <Files>
       <File FileName="MovieShopAPI/Controllers/AccountController.cs" Line="18" Column="30" />
       <File FileName="MovieShopMVC/Views/Shared/_Layout.cshtml" />
       <File FileName="Infrastructure/Services/MovieService.cs" Line="32" Column="10" />
-      <File FileName="MovieShopAPI/Startup.cs" Line="75" Column="37" />
-      <File FileName="MovieShopAPI/appsettings.json" Line="11" Column="5" />
+      <File FileName="MovieShopAPI/Startup.cs" Line="57" Column="13" />
+      <File FileName="MovieShopAPI/appsettings.json" Line="15" Column="1" />
+      <File FileName="MovieShopMVC/Views/Account/Login.cshtml" Line="13" Column="26" />
+      <File FileName="MovieShopMVC/Controllers/AccountController.cs" Line="99" Column="27" />
+      <File FileName="MovieShopMVC/Controllers/MoviesController.cs" Line="21" Column="10" />
+      <File FileName="MovieShopMVC/Controllers/HomeController.cs" Line="16" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,15 +20,19 @@
               <Node name="ServiceInterfaces" expanded="True" />
             </Node>
             <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
               <Node name="Repositories" expanded="True" />
               <Node name="Services" expanded="True" />
             </Node>
             <Node name="MovieShopAPI" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
             </Node>
             <Node name="MovieShopMVC" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
             </Node>
